@@ -107,7 +107,7 @@ function draw() {
         let redRadio = document.getElementById('red-color');
         let blueRadio = document.getElementById('blue-color');
         let rainbow = document.getElementById('rainbow-color');
-        let eraserRadio = document.getElementById('eraser-color'); 
+        let eraserRadio = document.getElementById('eraser'); 
         
         // Verifica qual opção está selecionada e aplica a cor correspondente
         if (blackRadio.checked) {
